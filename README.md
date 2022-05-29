@@ -1,6 +1,6 @@
 # questions
 Repo for public questions
 
-See [questions](https://github.com/nollroberts/questions/blob/main/questions.md)
+## Link to Current Public Questions
+* [questions](https://github.com/nollroberts/questions/blob/main/questions.md)
 
-@@include[questions](https://github.com/nollroberts/questions/blob/main/questions.md)
