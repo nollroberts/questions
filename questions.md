@@ -1,6 +1,6 @@
 # Questions
 
-## Supply chain conserns
+## Supply chain concerns
 Getting a better understanding of the supply chains used locally. 
 
 
